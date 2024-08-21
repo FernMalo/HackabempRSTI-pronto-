@@ -1,0 +1,40 @@
+{
+  "comercios": [
+    {
+      "id": "1402",
+      "nome": "Zé Comeia",
+      "email": "vasco@gmail.com",
+      "number": "53984466838",
+      "comercioNome": "Bar do Zé",
+      "CpfCnpj": "01582481040",
+      "bairro": "",
+      "ramo": ""
+    },
+    {
+      "id": "ff6b",
+      "nome": "paralelepipedo",
+      "email": "seila@gmail.com",
+      "number": "48486684768468468",
+      "comercioNome": "televisão",
+      "CpfCnpj": "06514816002",
+      "bairro": 5,
+      "ramo": 5,
+      "endereço": "R. Professora Magda Costa 909",
+      "text": "Muito legal intuitivo e maluco",
+      "URL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fpt%2Fsearch%2Fpacman&psig=AOvVaw36F1w8Jvr6E43Nf8PbZwya&ust=1724352694411000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPimgcHghogDFQAAAAAdAAAAABAH"
+    },
+    {
+      "id": "8e0a",
+      "nome": "Lucas marques",
+      "email": "legal@hotmail.com",
+      "number": "12344123123213",
+      "comercioNome": "Renner",
+      "CpfCnpj": "123123123123123",
+      "bairro": 1,
+      "ramo": 5,
+      "endereço": "R. Exemplo - 123",
+      "text": "Lojas renner, vendemos roupas!",
+      "URL": "https://www.google.com/imgres?q=renner&imgurl=https%3A%2F%2Figuatemi.com.br%2Fsaocarlos%2Fsites%2Fsaocarlos%2Ffiles%2Flogo-1360213866436.png&imgrefurl=https%3A%2F%2Figuatemi.com.br%2Fsaocarlos%2Flojas-e-alimentacao%2Frenner&docid=1G3-u_U6ORHn_M&tbnid=nUuAeaeKQh75pM&vet=12ahUKEwjC3bCU4YaIAxWCqZUCHaiKFOoQM3oECHQQAA..i&w=500&h=500&hcb=2&ved=2ahUKEwjC3bCU4YaIAxWCqZUCHaiKFOoQM3oECHQQAA"
+    }
+  ]
+}
